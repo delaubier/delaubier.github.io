@@ -1,3 +1,7 @@
+<div style="display: flex; justify-content: flex-end; margin-top: -10px; margin-bottom: 20px;">
+  <a href="/" style="background-color: #159957; color: white; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-size: 0.85em; font-weight: bold;">🇫🇷 Français</a>
+</div>
+
 Currently in my second year of a Master’s degree in Data Science and Artificial Intelligence at University Rennes 2, I specialize in designing analytical models, automating data pipelines, and systems engineering. My profile combines strong quantitative expertise with solid hands-on skills in software development and infrastructure (DevOps/MLOps).
 
 ---
