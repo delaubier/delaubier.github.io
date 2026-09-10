@@ -1,3 +1,7 @@
+<div style="text-align: right; font-size: 0.95em; margin-bottom: 20px;">
+  <a href="/en/" style="text-decoration: none; color: #159957; font-weight: bold;">🇬🇧 Switch to English</a>
+</div>
+
 Actuellement en Master 2 Sciences des Données et Intelligence Artificielle à l'Université Rennes 2, je me spécialise dans la conception de modèles analytiques, l'automatisation de pipelines de données et l'ingénierie système. Mon profil combine une forte expertise quantitative avec de solides compétences pratiques en développement et en infrastructure (DevOps/MLOps).
 
 ---
