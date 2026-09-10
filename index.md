@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Thomas de Laubier | Data Scientist & AI Engineer"
+---
+
 <div style="display: flex; justify-content: flex-end; margin-top: -10px; margin-bottom: 20px;">
   <a href="/en/" style="background-color: #159957; color: white; padding: 6px 12px; border-radius: 4px; text-decoration: none; font-size: 0.85em; font-weight: bold;">🇬🇧 English</a>
 </div>
