@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thomas De Laubier | Portfolio - Data Science & IA</title>
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --text-color: #f8fafc;
+            --text-muted: #94a3b8;
+            --accent-color: #38bdf8;
+            --accent-hover: #0ea5e9;
+            --border-color: #334155;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+        }
+
+        header {
+            background: linear-gradient(to right, #1e293b, #0f172a);
+            border-bottom: 1px solid var(--border-color);
+            padding: 2rem 1rem;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            color: var(--text-color);
+        }
+
+        h1 span {
+            color: var(--accent-color);
+        }
+
+        .tagline {
+            font-size: 1.2rem;
+            color: var(--text-muted);
+            margin-bottom: 1.5rem;
+        }
+
+        .social-links a {
+            display: inline-block;
+            margin: 0 10px;
+            padding: 0.5rem 1rem;
+            background-color: var(--card-bg);
+            color: var(--accent-color);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: background 0.2s;
+        }
+
+        .social-links a:hover {
+            background-color: var(--accent-color);
+            color: var(--bg-color);
+        }
+
+        section {
+            margin-bottom: 3rem;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            margin-bottom: 1.5rem;
+            border-bottom: 2px solid var(--accent-color);
+            padding-bottom: 0.5rem;
+            display: inline-block;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 1.5rem;
+            transition: transform 0.2s, border-color 0.2s;
+        }
+
+        .card:hover {
+            transform: translateY(-4px);
+            border-color: var(--accent-color);
+        }
+
+        .card h3 {
+            margin-bottom: 0.75rem;
+            color: var(--accent-color);
+        }
+
+        .card p {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            margin-bottom: 1rem;
+        }
+
+        .badge-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: 1rem;
+        }
+
+        .badge {
+            background-color: #0f172a;
+            color: var(--accent-color);
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            border: 1px solid var(--border-color);
+        }
+
+        ul {
+            list-style-type: none;
+        }
+
+        li.item {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            padding: 1rem;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+        }
+
+        li.item h3 {
+            color: var(--text-color);
+            font-size: 1.1rem;
+        }
+
+        li.item span {
+            color: var(--accent-color);
+            font-size: 0.9rem;
+        }
+
+        footer {
+            text-align: center;
+            padding: 2rem;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>Thomas <span>De Laubier</span></h1>
+            <p class="tagline">Étudiant en M2 MAS - Science des Données & Intelligence Artificielle (Université Rennes 2)</p>
+            <div class="social-links">
+                <a href="https://github.com/delaubier" target="_blank">GitHub</a>
+                <a href="https://www.linkedin.com/in/thomas-delaubier/" target="_blank">LinkedIn</a>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+
+        <!-- Section Projets -->
+        <section id="projets">
+            <h2>Projets Phares</h2>
+            <div class="grid">
+                <div class="card">
+                    <h3>Ligue 1 Mercato ⚽ 🤖</h3>
+                    <p>Bot Twitter (X) automatique développé en Python qui détecte et publie en temps réel les officialisations de transferts de football en Ligue 1 via du scraping sur Transfermarkt.</p>
+                    <div class="badge-container">
+                        <span class="badge">Python</span>
+                        <span class="badge">Scraping</span>
+                        <span class="badge">API Twitter</span>
+                        <span class="badge">Bot Automatique</span>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h3>LocalAI - Private & Local LLM Extension 🧠</h3>
+                    <p>Extension de navigateur puissante intégrant des LLM de pointe (Llama 3.2, Qwen 2.5, Phi-3.5 Vision) 100% localement via WebGPU et Web-LLM, sans clés API ni suivi.</p>
+                    <div class="badge-container">
+                        <span class="badge">WebGPU</span>
+                        <span class="badge">LLM</span>
+                        <span class="badge">JavaScript</span>
+                        <span class="badge">IA Embarquée</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section Formation -->
+        <section id="formation">
+            <h2>Parcours Académique</h2>
+            <ul>
+                <li class="item">
+                    <h3>Université Rennes 2</h3>
+                    <span>Master, Mathématiques appliquées, statistique, parcours Sciences des données, IA (Sept. 2025 – Sept. 2027)</span>
+                </li>
+                <li class="item">
+                    <h3>Universität Potsdam (Allemagne)</h3>
+                    <span>Échange universitaire en Mathématiques et Statistiques (2024 – 2025)</span>
+                </li>
+                <li class="item">
+                    <h3>Université de Rennes</h3>
+                    <span>Licence, Mathématiques et informatique appliquées aux sciences humaines et sociales (2022 – 2025)</span>
+                </li>
+            </ul>
+        </section>
+
+        <!-- Section Compétences -->
+        <section id="competences">
+            <h2>Compétences & Langages</h2>
+            <div class="card">
+                <div class="badge-container">
+                    <span class="badge">Python</span>
+                    <span class="badge">Pandas</span>
+                    <span class="badge">SQL / NoSQL</span>
+                    <span class="badge">MongoDB</span>
+                    <span class="badge">Julia</span>
+                    <span class="badge">R</span>
+                    <span class="badge">SAS / Stata</span>
+                    <span class="badge">MATLAB</span>
+                    <span class="badge">Microsoft Power BI</span>
+                    <span class="badge">Excel</span>
+                    <span class="badge">Allemand (Pro)</span>
+                    <span class="badge">Anglais (Courant)</span>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Thomas De Laubier — Hébergé sur GitHub Pages & thomas-delaubier.fr</p>
+    </footer>
+
+</body>
+</html>
