@@ -1,0 +1,9 @@
+---
+---
+@import "{{ site.theme }}";
+
+.main-content footer.site-footer, 
+.site-footer {
+  border-top: none !important;
+  padding-top: 0 !important;
+}
