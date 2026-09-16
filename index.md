@@ -17,7 +17,7 @@ Actuellement en Master 2 Sciences des Données et Intelligence Artificielle à l
 
 ## Réalisations & Projets Techniques
 
-### [HomeLab & Infrastructure Cloud Privée (Kubernetes / Docker)](https://github.com/delaubier/HomeLab)
+### [HomeLab & Infrastructure Cloud Privée (Docker)](https://github.com/delaubier/HomeLab)
 * **Objectif :** Conception, déploiement et administration de bout en bout d'une infrastructure d'auto-hébergement sur du matériel reconditionné. 
 * **Détails :** Mise en place d'un cluster pour orchestrer des services conteneurisés garantissant la haute disponibilité, la sécurité des données et l'automatisation de divers flux (Nextcloud, Jellyfin, Immich, écosystème Arr).
 * **Stack :** Kubernetes, Docker, Linux, Administration Système.
