@@ -10,7 +10,7 @@ Actuellement en Master 2 Sciences des Données et Intelligence Artificielle à l
 
 * **Data Science & Intelligence Artificielle :** Python, R, Julia, MATLAB, SAS, Stata
 * **Data Engineering & Bases de Données :** SQL, NoSQL (MongoDB), Microsoft Power BI, Excel
-* **Infrastructure, DevOps & Cloud Privé :** Kubernetes, Docker, Linux
+* **Infrastructure, DevOps & Cloud Privé :** Docker, Linux
 * **Langues :** Français (Maternel/Bilingue), Anglais (Courant/Professionnel), Allemand (Opérationnel)
 
 ---
@@ -20,7 +20,7 @@ Actuellement en Master 2 Sciences des Données et Intelligence Artificielle à l
 ### [HomeLab & Infrastructure Cloud Privée (Docker)](https://github.com/delaubier/HomeLab)
 * **Objectif :** Conception, déploiement et administration de bout en bout d'une infrastructure d'auto-hébergement sur du matériel reconditionné. 
 * **Détails :** Mise en place d'un cluster pour orchestrer des services conteneurisés garantissant la haute disponibilité, la sécurité des données et l'automatisation de divers flux (Nextcloud, Jellyfin, Immich, écosystème Arr).
-* **Stack :** Kubernetes, Docker, Linux, Administration Système.
+* **Stack :** Docker, Linux, Administration Système.
 
 ### [LocalAI - Private & Local LLM Browser Extension](https://github.com/delaubier/LocalIA)
 * **Objectif :** Développement d'une extension de navigateur permettant d'exécuter des modèles de langage de pointe (LLM) de manière 100% locale.
@@ -50,4 +50,4 @@ Actuellement en Master 2 Sciences des Données et Intelligence Artificielle à l
 * **Portfolio :** [thomas-delaubier.fr](https://thomas-delaubier.fr)
 * **LinkedIn :** [linkedin.com/in/thomas-delaubier](https://www.linkedin.com/in/thomas-delaubier/)
 * **GitHub :** [github.com/delaubier](https://github.com/delaubier)
-* **Email :** [thomas.delaubier@proton.me](mailto:thomas.delaubier@proton.me)
+* **Email :** [hello@thomas-delaubier.fr](mailto:hello@thomas-delaubier.fr)
