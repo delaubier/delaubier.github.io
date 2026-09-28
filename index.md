@@ -48,6 +48,6 @@ Actuellement en Master 2 Sciences des Données et Intelligence Artificielle à l
 ## Contact & Liens
 
 * **Portfolio :** [thomas-delaubier.fr](https://thomas-delaubier.fr)
-* **LinkedIn :** [linkedin.com/in/thomas-delaubier](https://www.linkedin.com/in/thomas-delaubier/)
+* **LinkedIn :** [linkedin.com/in/thomas-delaubier](https://www.linkedin.com/in/delaubier/)
 * **GitHub :** [github.com/delaubier](https://github.com/delaubier)
 * **Email :** [hello@thomas-delaubier.fr](mailto:hello@thomas-delaubier.fr)
