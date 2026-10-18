@@ -38,7 +38,7 @@ Currently in my second year of a Master’s degree in Data Science and Artificia
 
 * **Master’s in Applied Mathematics, Statistics (MAS) — Data Science & Artificial Intelligence Track**  
   *University Rennes 2* | Sept. 2025 – Sept. 2027
-* **University Exchange — Mathematics and Statistics**  
+* **Erasmus+ Exchange — Mathematics and Statistics**  
   *Universität Potsdam (Germany)* | 2024 – 2025
 * **Bachelor’s in Applied Mathematics and Computer Science for Social Sciences (MIASHS)**  
   *University of Rennes* | 2022 – 2025
@@ -47,7 +47,6 @@ Currently in my second year of a Master’s degree in Data Science and Artificia
 
 ## Contact & Links
 
-* **Portfolio:** [thomas-delaubier.fr](https://thomas-delaubier.fr)
-* **LinkedIn:** [linkedin.com/in/thomas-delaubier](https://www.linkedin.com/in/thomas-delaubier/)
+* **LinkedIn:** [linkedin.com/in/delaubier](https://www.linkedin.com/in/delaubier/)
 * **GitHub:** [github.com/delaubier](https://github.com/delaubier)
 * **Email:** [thomas.delaubier@proton.me](mailto:thomas.delaubier@proton.me)
